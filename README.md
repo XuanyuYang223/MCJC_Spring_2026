@@ -4,6 +4,8 @@ This repository contains small educational examples inspired by **Mamba: Linear-
 
 The goal is to build intuition for state space models and selective updates, not to reproduce the full Mamba architecture or its optimized CUDA implementation.
 
+Paper Link: https://arxiv.org/abs/2312.00752
+
 ## Files
 
 * `toy_mamba_ssm_example.ipynb`
@@ -15,7 +17,7 @@ The goal is to build intuition for state space models and selective updates, not
 * `Paper Copy.pdf`
   Reference paper: *Mamba: Linear-Time Sequence Modeling with Selective State Spaces*.
 
-* `JC_2026_Spring (1).pdf`
+* `JC_2026_Spring.pdf`
   Presentation slides summarizing the main ideas of SSMs, selective SSMs, and Mamba.
 
 ## Main Ideas
