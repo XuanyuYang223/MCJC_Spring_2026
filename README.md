@@ -17,7 +17,7 @@ Paper Link: https://arxiv.org/abs/2312.00752
 * `Paper Copy.pdf`
   Reference paper: *Mamba: Linear-Time Sequence Modeling with Selective State Spaces*.
 
-* `JC_2026_Spring.pdf`
+* `Presentation Slide.pdf`
   Presentation slides summarizing the main ideas of SSMs, selective SSMs, and Mamba.
 
 ## Main Ideas
